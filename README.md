@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabigontijo
 - 👀 I’m interested in backend and frontend 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java Script, Css, React
 - 📫 How to reach me dev.gabigontijo@gmail.com
 
 <!---
