@@ -9,3 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabigontijo&theme=buefy&show_icons=true&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabigontijo&hide_progress=true)](https://github.com/gabigontijo/github-readme-stats)
