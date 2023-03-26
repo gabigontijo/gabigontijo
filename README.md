@@ -1,16 +1,3 @@
-- 👋 Hi, I’m @gabigontijo
-- 👀 I’m interested frontend applications
-- 🌱 I’m currently learning Java Script, Css, React
-- 📫 How to reach me dev.gabigontijo@gmail.com
-
-<!---
-gabigontijo/gabigontijo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![Gabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabigontijo&theme=buefy&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabigontijo&hide_progress=true&theme=buefy&)](https://github.com/gabigontijo/github-readme-stats)
-
-
 <h1 align="center">Hi 👋, I'm Gabriela Gontijo</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
