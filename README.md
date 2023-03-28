@@ -28,3 +28,6 @@ Would you like to know more about me?
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabigontijo&show_icons=true&locale=en&layout=compact&theme=buefy" alt="gabigontijo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabigontijo&show_icons=true&locale=en&theme=buefy&hide=issues,contribs" alt="gabigontijo" /></p>
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabigontijo&theme=buefy&show_owner=true&repo=Store-Manager)](https://github.com/gabigontijo/github-readme-stats)
+ -->
