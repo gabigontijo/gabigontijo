@@ -1,6 +1,6 @@
 <h1 align="center">Hi there:hand: , I'm Gabriela Gontijo</h1>
 <h3 align="center">A passionate Full Stack developer from Brazil 🇧🇷:</h3>
-<p align="left"> Actually i'm living in Portugal 🇵🇹. I've been studding Front-End and Back-End Developer since 2019. I'm passionate about web development and hype tech 💻. You can see some of my working projects in my pinned 📌 projects here.</p>
+<p align="left"> I've been studding Front-End and Back-End Developer since 2019. I'm passionate about web development and hype tech 💻. You can see some of my working projects in my pinned 📌 projects here.</p>
 
 <p align="left">In my free time I like to watch movies and series 🎞️, to travel, scpecially travel for snowboarding 🏂, to play Dota 🎮, to go to the gym 💪 and to go out to eat differents foods 😋 . I love the summer, enjoy beaches and sun 🏖️.</p>
 
